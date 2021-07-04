@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @silverevale
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning deep learning
+- 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on research related to the application of machine learning
 - 📫 How to reach me silverevale@gmail.com
 
